@@ -51,7 +51,7 @@ function newVue() {
       },
       inAnyGalChal: inAnyGalChal,
       getPerspectiveRate: getPerspectiveRate,
-      PERSPECTIVE_REQ: [16,20,24,26,28,30,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48],
+      PERSPECTIVE_REQ: [16,20,24,26,28,30,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,52,55,57,60,65,70,75,80,85,90,95,100,110],
       getStarEffect: getStarEffect,
       toRoman: toRoman,
       stellarpedia: stellarpedia,
